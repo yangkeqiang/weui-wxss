@@ -1,10 +1,6 @@
 WeUI for 小程序 为微信小程序量身设计  
 =====
 
-[![npm version](https://img.shields.io/npm/v/weui-wxss.svg)](https://www.npmjs.org/package/weui-wxss)
-[![Gitter](https://badges.gitter.im/weui/weui.svg)](https://gitter.im/weui/weui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![QQ](http://pub.idqqimg.com/wpa/images/group.png)](http://jq.qq.com/?_wv=1027&k=413HLfV)
-
 ## 概述
 
 [WeUI](https://github.com/weui/weui) 是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信内网页和微信小程序量身设计，令用户的使用感知更加统一。包含`button`、`cell`、`dialog`、 `progress`、 `toast`、`article`、`actionsheet`、`icon`等各式元素。
